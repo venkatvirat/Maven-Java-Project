@@ -1,8 +1,7 @@
 <html>
 <body>
-<h4>Hello World!</h4>
-  <h3>Welcome to RNS ############### Deployment through Free Style CI Pipeline V3</h3>
-  <h3>This is demo of Jenkins Pipeline</h3>
-  <h3>This is to verify the Pipeline Template Deployment</h3>
+<h1>Hello World! ### Welcome to Jenkins CI Process</h1> 
+<h1> This is Triggering from Source Code & Deployment to the Tomcat Server</h1>
+<h2> From (Free Style Job)Template Version : V5.0</h2>
 </body>
 </html>
